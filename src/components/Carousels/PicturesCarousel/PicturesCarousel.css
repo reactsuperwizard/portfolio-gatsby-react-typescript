@@ -1,0 +1,6 @@
+.slick-slide .gatsby-image-wrapper {
+  overflow: unset;
+}
+.slick-list {
+  height: 400px;
+}
